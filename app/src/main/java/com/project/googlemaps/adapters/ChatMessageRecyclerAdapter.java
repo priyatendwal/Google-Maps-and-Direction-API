@@ -17,6 +17,7 @@ import com.project.googlemaps.models.User;
 
 import java.util.ArrayList;
 
+
 public class ChatMessageRecyclerAdapter extends RecyclerView.Adapter<ChatMessageRecyclerAdapter.ViewHolder>{
 
     private ArrayList<ChatMessage> mMessages = new ArrayList<>();
